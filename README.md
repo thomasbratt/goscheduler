@@ -51,6 +51,7 @@ Example
 Output from Example
 --------
 
+```
 >  Starting...
 >  Scheduled task ran at: 100.245068ms
 >  Scheduled task ran at: 200.570528ms
@@ -61,5 +62,4 @@ Output from Example
 >  Scheduled task ran at: 702.263688ms
 >  Scheduled task ran at: 802.606226ms
 >  Scheduled task ran at: 902.941508ms
- 
-
+```
