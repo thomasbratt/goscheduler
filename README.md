@@ -20,6 +20,7 @@ $ go install github.com/thomasbratt/goscheduler
 Example
 --------
 
+```
   package main
   
   import (
@@ -45,6 +46,7 @@ Example
       time.Sleep(time.Second * 1)
       
       s.Close()
+```
 
 Output from Example
 --------
