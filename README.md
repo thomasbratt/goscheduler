@@ -3,6 +3,8 @@ goscheduler
 
 An efficient periodic task scheduler with concurrency limits.
 
+[![CircleCI](https://circleci.com/gh/thomasbratt/goscheduler/tree/master.svg?style=svg)](https://circleci.com/gh/thomasbratt/goscheduler/tree/master)
+
 Features
 --------
 
